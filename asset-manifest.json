@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/dewhitemold.github.io/amoCRMlayout/static/css/main.b259f816.css",
-    "main.js": "/dewhitemold.github.io/amoCRMlayout/static/js/main.ec229283.js",
-    "static/js/787.df355038.chunk.js": "/dewhitemold.github.io/amoCRMlayout/static/js/787.df355038.chunk.js",
-    "static/media/Inter-VariableFont_slnt,wght.ttf": "/dewhitemold.github.io/amoCRMlayout/static/media/Inter-VariableFont_slnt,wght.aadb65ac45347ff46699.ttf",
-    "static/media/Desktop.jpg": "/dewhitemold.github.io/amoCRMlayout/static/media/Desktop.11fdc40bc965576d2cb1.jpg",
-    "static/media/Montserrat-VariableFont_wght.ttf": "/dewhitemold.github.io/amoCRMlayout/static/media/Montserrat-VariableFont_wght.3faa3eef13649db02044.ttf",
-    "static/media/mobile.jpg": "/dewhitemold.github.io/amoCRMlayout/static/media/mobile.03078f7a72353f6b7c64.jpg",
-    "static/media/logo.svg": "/dewhitemold.github.io/amoCRMlayout/static/media/logo.2e08d1bd108cb8b2aee116b1817d851e.svg",
-    "static/media/whatsapp.svg": "/dewhitemold.github.io/amoCRMlayout/static/media/whatsapp.ebe720f0c912eda28e2bf0613c18300f.svg",
-    "static/media/viber.svg": "/dewhitemold.github.io/amoCRMlayout/static/media/viber.efdbe6bd3950a854df10750809a40828.svg",
-    "index.html": "/dewhitemold.github.io/amoCRMlayout/index.html",
-    "static/media/telegram.svg": "/dewhitemold.github.io/amoCRMlayout/static/media/telegram.40ecd015eebebbe71b5bd0354d54208e.svg",
-    "main.b259f816.css.map": "/dewhitemold.github.io/amoCRMlayout/static/css/main.b259f816.css.map",
-    "main.ec229283.js.map": "/dewhitemold.github.io/amoCRMlayout/static/js/main.ec229283.js.map",
-    "787.df355038.chunk.js.map": "/dewhitemold.github.io/amoCRMlayout/static/js/787.df355038.chunk.js.map"
+    "main.css": "/amoCRMlayout/static/css/main.e11b8e23.css",
+    "main.js": "/amoCRMlayout/static/js/main.a9f76a56.js",
+    "static/js/787.df355038.chunk.js": "/amoCRMlayout/static/js/787.df355038.chunk.js",
+    "static/media/Inter-VariableFont_slnt,wght.ttf": "/amoCRMlayout/static/media/Inter-VariableFont_slnt,wght.aadb65ac45347ff46699.ttf",
+    "static/media/Desktop.jpg": "/amoCRMlayout/static/media/Desktop.11fdc40bc965576d2cb1.jpg",
+    "static/media/Montserrat-VariableFont_wght.ttf": "/amoCRMlayout/static/media/Montserrat-VariableFont_wght.3faa3eef13649db02044.ttf",
+    "static/media/mobile.jpg": "/amoCRMlayout/static/media/mobile.03078f7a72353f6b7c64.jpg",
+    "static/media/logo.svg": "/amoCRMlayout/static/media/logo.2e08d1bd108cb8b2aee116b1817d851e.svg",
+    "static/media/whatsapp.svg": "/amoCRMlayout/static/media/whatsapp.ebe720f0c912eda28e2bf0613c18300f.svg",
+    "static/media/viber.svg": "/amoCRMlayout/static/media/viber.efdbe6bd3950a854df10750809a40828.svg",
+    "index.html": "/amoCRMlayout/index.html",
+    "static/media/telegram.svg": "/amoCRMlayout/static/media/telegram.40ecd015eebebbe71b5bd0354d54208e.svg",
+    "main.e11b8e23.css.map": "/amoCRMlayout/static/css/main.e11b8e23.css.map",
+    "main.a9f76a56.js.map": "/amoCRMlayout/static/js/main.a9f76a56.js.map",
+    "787.df355038.chunk.js.map": "/amoCRMlayout/static/js/787.df355038.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b259f816.css",
-    "static/js/main.ec229283.js"
+    "static/css/main.e11b8e23.css",
+    "static/js/main.a9f76a56.js"
   ]
 }
