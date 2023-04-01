@@ -22,6 +22,7 @@ function Footer() {
             <button className="footer__btn">Виджеты</button>
             <button className="footer__btn">Интеграции</button>
             <button className="footer__btn">Наши клиенты</button>
+            <button className="footer__btn">Благодарность клиентов</button>
             <button className="footer__btn">Кейсы</button>
             <button className="footer__btn">Благодарственные письма</button>
             <button className="footer__btn">Сертификаты</button>

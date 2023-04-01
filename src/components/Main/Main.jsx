@@ -57,6 +57,12 @@ function Main() {
           </li>
         </ul>
         <button className="promo__btn">Получить консультацию</button>
+        <div className="promo__cards_mobile">
+          <span className="promo__card_mobile">Skype аудит</span>
+          <span className="promo__card_mobile">30 виджетов</span>
+          <span className="promo__card_mobile">Dashboard</span>
+          <span className="promo__card_mobile">Месяц аmoCRM</span>
+        </div>
       </section>
     </main>
   );

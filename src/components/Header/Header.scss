@@ -62,3 +62,39 @@
     margin-top: 10px;
   }
 }
+
+@media screen and (max-width: 1139px) {
+  .header {
+    margin-top: 0;
+
+    &__upper-bar {
+      justify-content: center;
+      margin-top: 20px;
+    }
+
+    &__logo {
+      display: none;
+    }
+
+    &__menu {
+      margin: 0;
+      gap: 16px;
+    }
+
+    &__btn {
+      font-size: 12px;
+
+      &:last-of-type {
+        display: none;
+      }
+    }
+
+    &__contacts {
+      display: none;
+    }
+
+    &__caption {
+      display: none;
+    }
+  }
+}
