@@ -1,0 +1,119 @@
+@font-face {
+  font-family: 'Inter';
+  src: url('../../fonts/Inter/Inter-VariableFont_slnt\,wght.ttf');
+}
+
+.main {
+  margin-top: 90px;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  color: #E4E5EA;
+  font-family: 'Inter', sans-serif;
+}
+
+.caption {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+
+  &__text {
+    margin: 0;
+    font-size: 48px;
+    font-weight: 400;
+    width: 400px;
+    white-space: break-spaces;
+  }
+
+  &__span {
+    background: linear-gradient(92deg, #FCB045 27.14%, #FF3F78 121.36%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 900;
+    font-size: 48px;
+  }
+
+  &__subscribe {
+    margin-top: 30px;
+    font-size: 18px;
+    font-weight: 400;
+    width: 275px;
+  }
+}
+
+.promo {
+  margin-top: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  width: 300px;
+
+  &__title {
+    margin: 0;
+    text-align: right;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    background: linear-gradient(90deg, #FCB045 36.99%, #FD1D1D 100%);
+    background-clip: text;
+  }
+
+  &__span {
+    background-size: 300px 50px;
+    -webkit-text-fill-color: transparent;
+    text-transform: uppercase;
+    font-weight: 700;
+  }
+
+  &__cards {
+    display: grid;
+    grid-template-columns: repeat(2, 135px);
+    gap: 30px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin-top: 40px;
+  }
+
+  &__card {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+
+    &-title {
+      margin: 0;
+      text-align: right;
+      font-family: 'Inter', sans-serif;
+      font-weight: 500;
+      text-transform: uppercase;
+    }
+
+    &-text {
+      margin-top: 6px;
+      font-family: 'Inter', sans-serif;
+      font-weight: 400;
+      font-size: 16px;
+      text-align: right;
+    }
+  }
+
+  &__btn {
+    border: none;
+    width: 262px;
+    height: 61px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    margin-top: 61px;
+    background-color: #4077F3;
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: #E4E5EA;
+
+    &:hover {
+      cursor: pointer;
+    }
+  }
+}

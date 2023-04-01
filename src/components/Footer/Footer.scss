@@ -1,0 +1,106 @@
+@font-face {
+  font-family: 'Inter';
+  src: url('../../fonts/Inter/Inter-VariableFont_slnt\,wght.ttf');
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('../../fonts/Montserrat/Montserrat-VariableFont_wght.ttf');
+}
+
+.footer {
+  padding-bottom: 20px;
+  width: 100%;
+  margin-top: 124px;
+  display: flex;
+  flex-direction: column;
+
+  &__content {
+    display: flex;
+  }
+
+  &__title {
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    color: #656566;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+
+  &__block-box {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 150px;
+    column-gap: 50px;
+  }
+
+  &__btn {
+    padding: 0;
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    color: #E4E5EA;
+    font-weight: 400;
+    background-color: transparent;
+    border: none;
+    width: fit-content;
+    height: min-content;
+    margin-top: 10px;
+
+    &:hover {
+      cursor: pointer;
+    }
+  }
+
+  &__menu {
+    margin-left: 100px;
+  }
+
+  &__contacts {
+    margin-left: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 20px;
+
+    &-text {
+      font-family: 'Inter', sans-serif;
+      font-size: 16px;
+      color: #E4E5EA;
+      font-weight: 400;
+
+    }
+  }
+
+  &__social {
+    display: flex;
+    gap: 10px;
+
+    &-icon{
+      &:hover {
+        cursor: pointer;
+      }
+    }
+  }
+
+  &__copyrigth {
+    margin-top: 33px;
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    font-family: 'Montserrat', sans-serif;
+    text-align: right;
+    color: #E4E5EA;
+    font-size: 12px;
+    font-weight: 400px;
+
+    &-link {
+      color: #E4E5EA;
+      font-size: 12px;
+      font-weight: 400px;
+    }
+  }
+}
