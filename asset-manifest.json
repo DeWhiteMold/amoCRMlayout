@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/amoCRMlayout/static/css/main.a7b3fa2e.css",
+    "main.css": "/amoCRMlayout/static/css/main.f10dab90.css",
     "main.js": "/amoCRMlayout/static/js/main.a9f76a56.js",
     "static/js/787.df355038.chunk.js": "/amoCRMlayout/static/js/787.df355038.chunk.js",
     "static/media/Inter-VariableFont_slnt,wght.ttf": "/amoCRMlayout/static/media/Inter-VariableFont_slnt,wght.aadb65ac45347ff46699.ttf",
@@ -12,12 +12,12 @@
     "static/media/viber.svg": "/amoCRMlayout/static/media/viber.efdbe6bd3950a854df10750809a40828.svg",
     "index.html": "/amoCRMlayout/index.html",
     "static/media/telegram.svg": "/amoCRMlayout/static/media/telegram.40ecd015eebebbe71b5bd0354d54208e.svg",
-    "main.a7b3fa2e.css.map": "/amoCRMlayout/static/css/main.a7b3fa2e.css.map",
+    "main.f10dab90.css.map": "/amoCRMlayout/static/css/main.f10dab90.css.map",
     "main.a9f76a56.js.map": "/amoCRMlayout/static/js/main.a9f76a56.js.map",
     "787.df355038.chunk.js.map": "/amoCRMlayout/static/js/787.df355038.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7b3fa2e.css",
+    "static/css/main.f10dab90.css",
     "static/js/main.a9f76a56.js"
   ]
 }
